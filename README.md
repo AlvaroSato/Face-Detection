@@ -6,10 +6,10 @@ Trying to make a face detection algorithm based in the three algorithms of objec
 
 ## Roadmap
 
-- [ ] Implement Faster R-CNN
-- [ ] Implement SSD
-- [ ] Implement YOLO
+- [x] Implement Faster R-CNN
+- [x] Implement SSD
+- [x] Implement YOLO
 
-- [ ] Training the algorithm
+- [x] Training the algorithm
 
 - [ ] Validate
