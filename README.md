@@ -12,4 +12,6 @@ Trying to make a face detection algorithm based in the three algorithms of objec
 
 - [x] Training the algorithm
 
-- [ ] Validate
+- [x] Validate
+
+- [x] Working :D
